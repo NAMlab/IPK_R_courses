@@ -20,4 +20,5 @@ This course will be followed by a compatible “Biostatistics survival kit and d
 
 More details will come
 For now stay tuned and take care
+
 JJ Szymanski
