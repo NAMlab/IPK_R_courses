@@ -2,9 +2,9 @@
 
 Hi all, 
 Soon you will find here the scripts and excercises for the Introduction to R course led by Dr. Lothar Altschmied in May 2020 (if Covid19 allows).
-The exact dates are: Wednesday the 6th, 13th, 20th and 27th of May 2020  14:00-16:00 
-It will take place in the seminar room of the Bioinformatik Zentrum (BIZ) building.
-Registration is possible via IPK Leibniz Graduate School graduiertenschule(at)ipk-gatersleben.de
+The exact dates are: Wednesday the 6th, 13th, 20th and 27th of May 2020  14:00-16:00.
+The course will take place in the Seminar Room 1.OG of the Bioinformatik Zentrum (BIZ) building.
+Registration is possible via IPK Leibniz Graduate School: graduiertenschule(at)ipk-gatersleben.de
 
 The course will include:
 
