@@ -16,9 +16,10 @@ The course will include:
 -	Writing own functions and scripts
 -	Installing packages
 
-This course will be followed by a compatible “Biostatistics survival kit and data visualization in R” course later in the summer
+This course will be followed by a compatible “Biostatistics survival kit and data visualization in R” course later in the summer.
 
-More details will come
-For now stay tuned and take care
+We will post more details and some scripts to play soon.
+
+For now stay tuned and take care,
 
 JJ Szymanski
