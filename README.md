@@ -1,4 +1,4 @@
-# IPK_R_intro
+# Introduction to R (2020)
 
 Hi all, 
 Soon you will find here the scripts and excercises for the Introduction to R course led by Dr. Lothar Altschmied in May 2020 (if Covid19 allows).
